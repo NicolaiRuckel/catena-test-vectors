@@ -1,0 +1,90 @@
+[
+	{
+		"inputs":
+		{
+			"hash": "1af42e57dea9d390e5bd1ccd3ae3d838a43b5b5ad3d45008843113ea8cf88ce0ee7fc2cf16bbc6e26ee5c013ffe2be122cb7de3c1d475882fa8a32232650cdd9",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "8430efa67fc2ea75bed635051610b96efa099ed3595b12ed70b0c7884f25e419d2e9417fca9c684103898907acebb235a0b570b1089934e033bd6bb9a8136245"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "6912914920094109ee373e780d775a6fcceef69db36596e8d1b3e64515c0c7a93237a784278eb31a24e9a16a2510b2154f89729c1f4f5b6fd662eba7cb81a094",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "a970e364"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "7fb6ce58f7dc1f05c5587421aecdf72fbb2a146ad5f746b19cf2ee92bb8089eb7218054800fd794f276b0b8d0cd6f9923b18d7e410a5e061e11e3eba4de8b2a8",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "7616d9dcb0eb7831feaee5aecd569e1d6401434138e342f7bc90a27f7a7a406d541c142c46c7733425e278cfa63e37e234ff6812d1a46fd8701090006290d411"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "0f226d422d7226858f58d25472bc4087f10ee57fc9bee6072f53d2a7445f84ebfd361f3fedb0d6013a3d3f7a88ddc0aa8a3f73299b0044e642acc8c2d175df5f",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "e8dd0e9c"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "23453a17507df23ea4bc2b1f8e6afe3eb82f21dd5b845cbfbab5ea6e10b3a53a764a9d306eab53ddc6ac9da4c55c6cff9df59be563a20da55b24406f2eda932a",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "333c03d6"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "445db11a6d9258eff929064f4d71b64af6fa9cc4a8094e5bc4753b70ab41b65fdb8c5afdc3ca66acab237a270e6852ebe857b8dcd82cdd85e1186074667f4692",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "215c5f7e"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "f54b8c443f01df3bd1b4c8fe239094584d4bb021f3b586b97beaca1e1cc46ffb110fc095a8f99a48030a5356d56e4def7f40eed684e6abdf3307b2ad7a77fac9",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "4bb1033c500870b6fd53c1e83f010067d8c08cce"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "607ef19443a10914622350f6a09df74bf1c1d872168f46fbd4b2464bea04234ddfeda37abf628a63d1094938d0b4b6a28ffc2a19943de66c0710413ba467e514",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "2411b2e2"
+		}
+	}
+]

@@ -1,0 +1,232 @@
+[
+	{
+		"inputs":
+		{
+			"pwd": "00",
+			"salt": "db91782795861d0c790ff96010035d0f5e4828450a2956e7783766df",
+			"aData": "0a22da031a407ff039b359a8fd",
+			"gamma": "89681fd660db8d0a54e829e5f984f7e8a0e60fd9a8b85e45e837f59e46a5cd8cbcb99b23dda0f4",
+			"outputLength": 20,
+			"p": 2,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "db91782795861d0c790ff96010035d0f5e4828450a2956e7783766df",
+			"aData": "0a22da031a407ff039b359a8fd",
+			"gamma": "89681fd660db8d0a54e829e5f984f7e8a0e60fd9a8b85e45e837f59e46a5cd8cbcb99b23dda0f4",
+			"outLen": 20,
+			"outHash": "8e8bbf139f770c0a620cba3dc49ca550b31ea15f",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "07",
+			"salt": "4d305d854217a4e6e0d8c6752ea163185db48e735d4a1de418eb13f21fda0931ff724daf044668bf366c",
+			"aData": "f7c9f3657ffd96a27906fad379560e0525",
+			"gamma": "c98efe2ab971b608d146591479c2c5fd53348bcf5bd35bc2d62942d0919d1e4700e03871e6dfd3",
+			"outputLength": 20,
+			"p": 3,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "4d305d854217a4e6e0d8c6752ea163185db48e735d4a1de418eb13f21fda0931ff724daf044668bf366c",
+			"aData": "f7c9f3657ffd96a27906fad379560e0525",
+			"gamma": "c98efe2ab971b608d146591479c2c5fd53348bcf5bd35bc2d62942d0919d1e4700e03871e6dfd3",
+			"outLen": 20,
+			"outHash": "b730aa878bfb2ca63baca56e92c30b08380ee7ef",
+			"p": 3,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "00",
+			"salt": "befb829e41dc65bac43b1fad54a46129063d05b9fcdedd0b943deef21e",
+			"aData": "6afd6a314bf117bb82fb2e5c9332573a934f263d43f120",
+			"gamma": "53dc63a101b87b98969a256fcc88f222be8ad8daea4396ef840dd7c06eca5eb653792e2771967a88878109cca10b790b5414c653",
+			"outputLength": 64,
+			"p": 1,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "befb829e41dc65bac43b1fad54a46129063d05b9fcdedd0b943deef21e",
+			"aData": "6afd6a314bf117bb82fb2e5c9332573a934f263d43f120",
+			"gamma": "53dc63a101b87b98969a256fcc88f222be8ad8daea4396ef840dd7c06eca5eb653792e2771967a88878109cca10b790b5414c653",
+			"outLen": 64,
+			"outHash": "33778977b8da918f3ccaa25a2b7e574fe209d2257ac2ac932c49f0d1bb552b49f48240f80233cd73e04e01178bb530eb03062061d1472128b11b16984316afbf",
+			"p": 1,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "02",
+			"salt": "522e50a4d882bc160dfbcb177454b7506afd6dce78f75e47bff91f08e285",
+			"aData": "b43d0d63c6f15d007fadbbafcec4ff34a640d1957625aaa3398e223a18ea3300e045f969818dc3d378a6956294c9b13571bb",
+			"gamma": "8134bcf9091238a426b993d8804550d3125c8f07229f16db1bae6a4bba3f9d43ea9253381dac5f97f29e3b11342bede14927948a0ccb62438c3c3cf7c95ae0",
+			"outputLength": 64,
+			"p": 2,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "522e50a4d882bc160dfbcb177454b7506afd6dce78f75e47bff91f08e285",
+			"aData": "b43d0d63c6f15d007fadbbafcec4ff34a640d1957625aaa3398e223a18ea3300e045f969818dc3d378a6956294c9b13571bb",
+			"gamma": "8134bcf9091238a426b993d8804550d3125c8f07229f16db1bae6a4bba3f9d43ea9253381dac5f97f29e3b11342bede14927948a0ccb62438c3c3cf7c95ae0",
+			"outLen": 64,
+			"outHash": "84866627b6255d514c9274ab3a76296d3772be034dd6a41a72387439ce82b0f4291b513efc744acfb5e178d846cc3ba8ed5540fbe77b9a90d7636be2cbe305a6",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "01",
+			"salt": "2b8dd91befc441fce2b2a590e7902692c77d7645556f909bc5093e6043c3127258a43a952e28",
+			"aData": "7c324c01",
+			"gamma": "6887db5234689e09bd6e85fd40a7af8ec8ef73dc8fef916b69cdba70221a9ce822c1b00ec11239cbea5d2fb9eb83df1fe6502577b5cd6e9e34a841eaf66822",
+			"outputLength": 64,
+			"p": 2,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "2b8dd91befc441fce2b2a590e7902692c77d7645556f909bc5093e6043c3127258a43a952e28",
+			"aData": "7c324c01",
+			"gamma": "6887db5234689e09bd6e85fd40a7af8ec8ef73dc8fef916b69cdba70221a9ce822c1b00ec11239cbea5d2fb9eb83df1fe6502577b5cd6e9e34a841eaf66822",
+			"outLen": 64,
+			"outHash": "ec2d4d9c7c8519afb28d6698e0b5a688a9481ab05031b16caa86dcec06f09b6419ecfad94be4ecdcfdef1f980ad17484a53038aa337ac2b86728772de5a72185",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "00",
+			"salt": "f6a14a832e329853663c9b752c2cfc9d74274e4a301b81964093138354d1",
+			"aData": "60794fe57ce6715bc4bffa6039633e06f0520241b0cc63225dbc87214ac067f8bf",
+			"gamma": "54d7d2fb98eb7a40300d4439194609330e81159d704cff0d642d19c05bccca2b4ceb48d0729a2fac328c7802cd78",
+			"outputLength": 64,
+			"p": 1,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "f6a14a832e329853663c9b752c2cfc9d74274e4a301b81964093138354d1",
+			"aData": "60794fe57ce6715bc4bffa6039633e06f0520241b0cc63225dbc87214ac067f8bf",
+			"gamma": "54d7d2fb98eb7a40300d4439194609330e81159d704cff0d642d19c05bccca2b4ceb48d0729a2fac328c7802cd78",
+			"outLen": 64,
+			"outHash": "8a6de14f7999a8788d74a28945f6ad64e39ff01c9e618adfbcc98a1502ae714a61898b117d16fbe0187c16780d86fb19f70e0e01af8b95790cd2a12e2141345e",
+			"p": 1,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "00",
+			"salt": "85b19cc869da4038af967bf848dda5a7f482b4888d28d670c78bec55012c3a7f",
+			"aData": "db9a2b62c75e5bae4d648e11f0d887e4703d5c996a0e",
+			"gamma": "1a2fbd8848a9355c7504686d659b7055b00fbfb4ea361fa1fb2093ba2917a4cc498e5dd783bf3a4383f81135df3d7615a156e7ee6b5236954baf4559a666bddd",
+			"outputLength": 64,
+			"p": 1,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "85b19cc869da4038af967bf848dda5a7f482b4888d28d670c78bec55012c3a7f",
+			"aData": "db9a2b62c75e5bae4d648e11f0d887e4703d5c996a0e",
+			"gamma": "1a2fbd8848a9355c7504686d659b7055b00fbfb4ea361fa1fb2093ba2917a4cc498e5dd783bf3a4383f81135df3d7615a156e7ee6b5236954baf4559a666bddd",
+			"outLen": 64,
+			"outHash": "658e1299c1ae3f5ea79ef66d8295ef4e54abf4a9df88b8ea68111abca5f06d349a7ddccd5e23ddc3ae62204ad7af4209081f6caf6185b4d6bb8e700be0babba2",
+			"p": 1,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "00",
+			"salt": "0833cf4460a3b642fe134ab53412e6d18a8e",
+			"aData": "0dc9e7e70330fc2241f671e632881b66bcfedf3eb89b76",
+			"gamma": "3673016fa86a44f9737d41",
+			"outputLength": 20,
+			"p": 2,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "0833cf4460a3b642fe134ab53412e6d18a8e",
+			"aData": "0dc9e7e70330fc2241f671e632881b66bcfedf3eb89b76",
+			"gamma": "3673016fa86a44f9737d41",
+			"outLen": 20,
+			"outHash": "cae03afeb7b799333a119217dfddecbb1f7b22a0",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "02",
+			"salt": "3da384c356e9a6d19e203ec7a1e4f5cfe7fcb8989def",
+			"aData": "ac020ef28c54c868cc90285550cf0933d250acc2d2fb1f0817e31e1acf738ac7e3",
+			"gamma": "9e6d25039ad397e63d7599d2306f84cd424ab269db68aaeaebec0c8ee410ec35887fe4cd1eb06b52b8eff7f343e1e320ba3bfa4bc36b0f",
+			"outputLength": 4,
+			"p": 2,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "3da384c356e9a6d19e203ec7a1e4f5cfe7fcb8989def",
+			"aData": "ac020ef28c54c868cc90285550cf0933d250acc2d2fb1f0817e31e1acf738ac7e3",
+			"gamma": "9e6d25039ad397e63d7599d2306f84cd424ab269db68aaeaebec0c8ee410ec35887fe4cd1eb06b52b8eff7f343e1e320ba3bfa4bc36b0f",
+			"outLen": 4,
+			"outHash": "b005e8f4",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "00",
+			"salt": "b02b16d8df4fdbca1d25da888f5317889314851fe6aed41f64ff9c0e5b89ada30039770ff891e4f8c51996f642ecb949",
+			"aData": "c081a9d119050b685129ebc009ea4bbefdd14c",
+			"gamma": "466903dd3b3dca9fa817e5bb84f2a9d3603a2020220b39b9d80640",
+			"outputLength": 20,
+			"p": 1,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"pwd": "",
+			"salt": "b02b16d8df4fdbca1d25da888f5317889314851fe6aed41f64ff9c0e5b89ada30039770ff891e4f8c51996f642ecb949",
+			"aData": "c081a9d119050b685129ebc009ea4bbefdd14c",
+			"gamma": "466903dd3b3dca9fa817e5bb84f2a9d3603a2020220b39b9d80640",
+			"outLen": 20,
+			"outHash": "33d077149b7c0f3470bff17ef31513abd1cf29cf",
+			"p": 1,
+			"mode": 1
+		}
+	}
+]

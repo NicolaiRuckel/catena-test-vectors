@@ -1,0 +1,114 @@
+[
+	{
+		"inputs":
+		{
+			"pwd": "fea1006fed8e2b150fc0040f2cfc80dc2aa21063b964d0a105a5b294",
+			"salt": "bf06ade11a3eaf0023b2eafd2b11",
+			"gamma": "6b3f214c0242bba11bacccf16581d19a3595d00ff7a945d3216a9eb7e19ee829c439302bd45570a6d3e0bbff94d2937bef1e",
+			"aData": "a494eed03f88b0c079111f6c6f0b3b",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "e4119956f7a9f6ced153c4f35427aa715566b6f88297dff41961762493d2e738538f0aa5f42385541259a45c4cf8bda4a2a262bcfa02c592e8cd7a90e1f8895e"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "dbc728acbceaf1f29b7adb19aac259991e0cf27ea4f6b2c7b361d0a484f5995182cc",
+			"salt": "22d107e16d3d8c42565e595931ab10a5f7d8f3eef3b95c5099739b85541efd3d9f405c50c56667d4",
+			"gamma": "e003bf3de31712e41bfdfbff27a4d1aec7d980a92f96562fc53d7f4badf0d99360923376ec5f378e01dba857ce33a614b96b447d3fedfb",
+			"aData": "7b99d9bdbff1e43bd3a0fc7584f7b46520f086a64f170bc3cb91967f1b0c31d312663c0c3efbe83c486149ba3d23458261de",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "72c7e20f40b0ef3e485596ea9ade9fcfc034137dfb1fba9724609a635c5adb6b4b9939dfc000ce78db1be2506a0cf43df0843839cd7d677f8f2220778e72717e"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "5153b2f7161f00a2048c95a2b134787904dbf3ea00f1c23b6d383e615fd80580220cf5f9d6d923670fe55387d83f",
+			"salt": "da0de08301bb6166f188002bbb5d4be2cb1f1c25375e77d4d6bdbea06a2ca8dc5c806d540f8160dcad9a",
+			"gamma": "a17c35460985d4145e4f07e37628c92d96b2d24d995b96a9",
+			"aData": "4eda4b4abef099d5c0bfa56c3626f51054a91b222458ca3ea4e4a5e536b992b57e3db742641cefef2eb30612",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "7803f404716fd3d6dd4c5bffdbf2673c0daab971a08df887f46d4183a5d6743452877d08c3b820cc567df46cdf880fcdf652110a081cc8ee1b5767c33b691f9a"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "82883077fb8cd92c966c098b5abdee4acd18d704e60ed57395a964624ea5833d31fdbfd91d34b8780979de7e57e2dc06303c85aef105297b4ed808ccf334",
+			"salt": "19ae284b71614661fe0e160d4ea6ca3de09feb98acc9d6fbe5bc01e035dff7a15165fc3dd4e09cc3d7157ccd78cfa3",
+			"gamma": "397e97ad84bc542e99e3816a17c83c1a58ab0fed948f6917f74e9951210c84dd565f",
+			"aData": "d64b6428abfbe3875cc9fdca57acb9e6aec86eeb554126b733f56cecb383",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "8eea4ef6d1c20d4638ee424008942d7279d4c19aee710c2bab74a4b43df313e43f185bfc7f3c282c7ae5bfd7168d6f8841fa42df3eadb8b7f0165a7c247d716c"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "dfe6537be72dde9e078dddc8b4f45efc7d6ea2dedeb8265753a39d105f5d150840576cb6e37a1af085f0195f8cd767",
+			"salt": "3feafc4495d5863119b9090a13fd70d18b0a04a5e6d53345791183ebe21bc7cb24d01bb3b618a4ae346e12d89cd7ea2c6f977bfe2c5e89",
+			"gamma": "18d0b3ecc68e564f15abb1",
+			"aData": "c80f893296",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "f9d1e21dc6210b022b58d3b85179aad81aaaef4ec6dc862d1b13f5b0d898a8af3cf646a0277269ddbaa410c914031ff5aa6a785c773e30f2e758ad51578f5100"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "4f9b5a8827c4823849d404b1281abc00164b585bd0ea8a",
+			"salt": "1c0d20b2f0215d5949c572dcbaa31aabb1ca0551b0e68fd953613b9e9ad7d86443bfc8c3df516433ea54a0f638b981594ff5",
+			"gamma": "05d9dad6",
+			"aData": "8a2d5797414c5a3d5060867d66af2c24124b2618292465fceedaa67b3cf1740a1a4bfad4caf611a954c448450534",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "48dc7d7e8a903c41494299c892c23022fc8a82570f93f7f7f0d78a76274546969dbd54f1b49c6f660d81eb5bd714d85111600e1c6acdb724f6f5c9b3b2c6d3f9"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "f60e0a83f241f9",
+			"salt": "08b1ebc144a92157564421e98b5396c1b7a68b7794848e14b5ae671fb31e8cca",
+			"gamma": "dbce4e0aab41c1342ec64a3a3e153e778fe601c154d460f3f43d22f1571765166d31e1fed20e0e178d",
+			"aData": "4f00cc4f53148d6020aa9d1788356620af5d5b3d0982958da6327416848127bd1da47f75be484a5a31ad060cccb610f9d5eb8f60e5953d4bea68",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "f472133679a09a15d2dead28daba34a3287e443cdcf0a341735e1e653f6d3f1ee45c3c187953388b656ce761eaf794e9710a90d4110f49f102fc0e8c6f626b7e"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "73ebce466a9650fff3",
+			"salt": "94dfc5cc4f699886609252d39a6bbfcefba7649261d75eab74c63a6b30aa08d1a0ddd21e04caa273",
+			"gamma": "9cf3e7c73fbcee37df436f76b9ec963c65e05c74940946cd2721f9a591ae36d5c99be36ddf",
+			"aData": "00b65e80a7c2a0401713fb0f6f0669cc6621f430dfac9ee7619697102f3f257c71bcc3d4",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "73706efa46c519b67512d63ad18fe699b919a9a78f9fa18f5f9f79edf798a417ee0c871e5a7a848c19d2349604348efd3a99942d036e6fd7b039d4700f55ebeb"
+		}
+	}
+]

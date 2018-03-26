@@ -1,0 +1,172 @@
+[
+	{
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "624b29f587db1657592cf86fb8d51f46cbddb5c222ce2d0e31ced72c0281e3bb6d5a085614",
+			"aData": "029d2cbced2196d4ea0f94b6c9b186e2d24d0f034f",
+			"gamma": "7e29712f64",
+			"outLen": 64,
+			"outHash": "d230b8c0d1f3930f20dc3f478fc8b0e70eb186b8c35ffa82b288fa1826f2adcfe7b6a6793b291f0fd3088a61a210cdfc9a67d2c23b790c7b3e76305089ef3fea",
+			"p": 2,
+			"mode": 1
+		},
+		"outputs":
+		{
+			"res": "03"
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "02"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "ecca3ec2f68359d97a2c9706eddb07b23ba3e96713c9b1de16c5c332ef9398296f358f62060b9617f07d3b440d70d914a502678444",
+			"aData": "aa2c7c7aac532d92db9db5ed1a0cba5f368ca0391a9897fca2f6ad2843af6a37b415baa244d80c7ca18b0e1c9e9c64a5a3b700e7d9ae8a19",
+			"gamma": "dda6fdd40991c9bf06",
+			"outLen": 20,
+			"outHash": "922dc4cfe65f13d0f7209946e112311703a637f4",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "03"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "b6d47e6a344edb88cc17d6caeba0a31474ec4802220a96f3a74249676951a976a63e62ef4a62ba2ea661047a295f",
+			"aData": "fb09b01e9fb6c09643d5b126c97adba161b6f28108017a7767a49bc3f636e89519f049694a77e5d640163762e3e017a212c26368ff",
+			"gamma": "4b906293746e26",
+			"outLen": 20,
+			"outHash": "4251a637fa477e3d88a688020f93898530882330",
+			"p": 3,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "01"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "493441c0c2141ec741b632425a774942966015fdbe3e0f12d2e9af6fe05e157a47db015bd608e72b57432df96538",
+			"aData": "46da829ce6fc5ebcadc52c59dc3c6d51715fa0aedd1c6dda81a0d9e2",
+			"gamma": "d818552a5a349e79b44431ef1528dcc5c7cbde76fe45a89b7d14e4f86665b120cabc0403",
+			"outLen": 4,
+			"outHash": "a40221c0",
+			"p": 1,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "01"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "8ef98d84a613800c59ff07ecf52096c6c8de2a1095988077c5ee62fae8dfcfd841aaefd6652e",
+			"aData": "6267567a1ced886571dbc3cd55b66a82172063c87a",
+			"gamma": "ceb7160fe45621f39cb68185cd6ec85fd8cff7af204e83933bb977913475f5685f497747a1e7097e4f342c7fd7ec2f495b06",
+			"outLen": 20,
+			"outHash": "ac03a98d1b85e98883110451ee4e9f81e6bb5524",
+			"p": 3,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "02"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "1bc9f60ce2b5038c1f32d49a5c2755b097c8680783cd1af97d4d3a899481c21ee774580ffdd219814949c742387474ded26ac13f12588594a4cbb57285e978",
+			"aData": "af0444d87be874f4fc1e2875e6963330e3e5b2ce955b53e8b0a397c025f1fc517a24fd4c",
+			"gamma": "83c5a92722efddf491ddb8a4875c5888b14691683cbb220bf94a215b7c909490",
+			"outLen": 4,
+			"outHash": "41b088b9",
+			"p": 2,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "03"
+		},
+		"inputs":
+		{
+			"res": "",
+			"salt": "00b62589718868d7251bf4",
+			"aData": "2b73b5ca708731bcff3bf858065ca61bea2c9205a30fb0a77e03af99a21ad9044779badf0af9d2bad9b5b5203fba427070730406cb6450b39272249ff62895",
+			"gamma": "93b5e837891755fc475ce934467f81b7df1fa929708b0db0102e17ef",
+			"outLen": 4,
+			"outHash": "a1162ee3",
+			"p": 3,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "01"
+		},
+		"inputs":
+		{
+			"res": "",
+			"salt": "fbb6a973c4ace6fca279dfbfc6f76d31231fde0c82",
+			"aData": "a777ab65380b3af4f79683082b586ba0738e7101c9baa9a7c840c9599549cb7207532f962dacf888eb",
+			"gamma": "f2593c29020050c3c1b1ff",
+			"outLen": 4,
+			"outHash": "2d53fc0e",
+			"p": 1,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "00"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "ed2aa5453a",
+			"aData": "2dfef590e4d161c224ca",
+			"gamma": "98ce29b7ee5b77c6f0d666f5820f31de",
+			"outLen": 64,
+			"outHash": "2df7a07a70c58870b856ea16af6916a1666c2cf71a5cfefdbb73731044f5316c98022eefc8475efa925f998c3fa87943be93fe24645892d53b44f144e093387d",
+			"p": 1,
+			"mode": 1
+		}
+	},
+	{
+		"outputs":
+		{
+			"res": "01"
+		},
+		"inputs":
+		{
+			"pwd": "",
+			"salt": "3163af75a38ef3878f6c1f5139035cc22cf357e2273259997ab1",
+			"aData": "7b93a491649af8f580adf4215c976059c671aaa6706565a31f8bc1a0cebe38c0c0",
+			"gamma": "a681bf25c713a32b0085c2bb882e10036036085d53b82cfffae1cf97df67c85b498e9168b916f3fac2e75e2c4f7bea92d5b63a808f4fe818bb1f619cdd8f",
+			"outLen": 64,
+			"outHash": "7bba94747293df7b4680602a6ae5ca8eedd8269f921ae9dc439412cfda51ae37b2f45cd5fee47b6ecaf64ad37ee1224251a552a0dea5cfb67d25bafa62a260e5",
+			"p": 1,
+			"mode": 1
+		}
+	}
+]

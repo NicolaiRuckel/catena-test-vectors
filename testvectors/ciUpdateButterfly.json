@@ -1,0 +1,106 @@
+[
+	{
+		"inputs":
+		{
+			"oldHash": "8740d8429a2ca6ee5db55b81a56df58f2b835f5c",
+			"gNew": 17,
+			"gamma": "e46ee02a3a122064e3381a3dfe51409e525661d92b38d98a379eb3b142c15f57f7a1c952f0f0d07870b9aee9f04c20e68fc985714563dca09486e67a165eaa",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "c7bb11b83781dd731f2cbaed82af08cfe38233d4"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "bf26a99c",
+			"gNew": 17,
+			"gamma": "81de89e223d24f4ce0162bd7880f3a46d545bfa234626f2988f672eb8117594bd863f399792f06557183bc01341489135dc84bffa3e7ac6e87f8d0d222",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "62527e49"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "2e127a12458cd0b18a7197e93f09dcd25ca221fec2c8743dd2b7bcc797c4131fc295f12acd42ba97323cef77f3ac8fc15679908de85c245c8e42c39136c63315",
+			"gNew": 17,
+			"gamma": "55f7dbe9ae0cd78491cda01f3f93b68f",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "ea37b22090fb0d8bab27720ba00a82cd07e549e8ff34aef4aed5cca4b6da094f63971c1d60174b977a87cb1e5ea1bae07a4917c8de889b8b66672512102a5f68"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "d7670748",
+			"gNew": 17,
+			"gamma": "d4225a2a8f713a",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "f3f3bec9"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "584e90da5d84cdd9b9cd24666b523cb224bb26b7",
+			"gNew": 17,
+			"gamma": "fcd089777180974d51c5ddb35a4e120b3e30ee3ddf",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "352a7cf974e7a09dd689a16de1c331f6fed0523d"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "94d625edd73a3eaf0af7873e43c007409f59393e",
+			"gNew": 17,
+			"gamma": "c5512b6543b458b22da4a7dabda939563077e6cacb5b20142faaeb6da0",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "b99716bbe189adb539268d1eb4dcce56e14b31e7"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "079ca44b",
+			"gNew": 17,
+			"gamma": "aac2ee7e5b38b9798191384d5ec8c404369ed100ae45f742d2ec16",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "f3ad1f39"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "f60d9815f76b1ee353ec259d04a186f960d1c80e",
+			"gNew": 18,
+			"gamma": "8b5e1f183687632ec920f912",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "a516682dc11b72b87c8e5e0825e0e82861189edc"
+		}
+	}
+]

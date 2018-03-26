@@ -1,0 +1,106 @@
+[
+	{
+		"inputs":
+		{
+			"oldHash": "3ac0d6f5",
+			"gNew": 24,
+			"gamma": "79ec0856025ce345e0157fecaf4a1ff0fd2ea9b3c82a4905edf8c120d0edab1d0463820651be626f6cd79e8fc12f70c78842dc3411102787ab",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "41b66b70"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "627c3e88",
+			"gNew": 23,
+			"gamma": "1d7063d44a902af0f4967429a6af061abda9ebb4fa27cf33de77151fa3fd",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "c32cd8c3"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "10a72fb06a342dd030a53ab99de51451bfe1ae8b",
+			"gNew": 23,
+			"gamma": "e9eb2ed821e1335e42900a0e00bdff723aba850a8324f57e7fb21864a45fed79b94d8d0dbbe49276c6",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "87d0a50cfc913cae47ca0855c553b2f459260ddc"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "a472d7cf4aaa8d10dc48ac7846404f5b5e33c459",
+			"gNew": 24,
+			"gamma": "dd8c61aea628999fed3c1520ebb61c5783bba8a32fadf41184001d8adbd5d6206f1fa5c84363d1b5010c817fc23c87ea0d3db1b2e87a3b7e7f6ccc",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "96010eb1d8135d462de40757aa0cf65426df5773"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "6ec44e07",
+			"gNew": 23,
+			"gamma": "fc0a72339c9d0aecdacb8bebc10c11fa71769cf0028679dd7a5da2828f7b6f97",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "43a22725"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "ce768bbf578df796ae3fab627a07cc7913c43c4ce3be10c18dc79f2f703ac4af3c1e3fb993864322878402a4bab521994eebe27ad7168aa42dcda05ca14cc509",
+			"gNew": 23,
+			"gamma": "76cf26e33fba85b82390c599f1d76498b971119f6e150c63106797abc0ba0728bdc6ce9cef606548817eec9a62",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "992ee81ea00d27aea3b1a55ae777cbc6a43f948d8b589be795f1468f25f5e56330b97275920c181adbfbcd3d9692ed5a6fb1e631f69a6baaa7c92d5816078abf"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "ca7a5a956d2508f0dfb2de0a5b56f67146921c0519fa272762660ea033df04e87843d29082fbaad5e3e095dec959763592ff7b4a31b485c753d4b62da2d933bb",
+			"gNew": 23,
+			"gamma": "cfc8f1b49477047b85443ee54dacd3185e173347561f96bdb3b6b6f6874364e91e3176230d284866b2d0460aded8a141dfb794bbf69c66b4bc64",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "568e9a30c97f6d4de1bfb9444123977c518e71c3a5e7eebd6a1c5c3534fe38bc5b7bb608afab979e6492dc54eac92b8c19b713709544feff5aa384f5b357a15e"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "d4ce830dbb6f204d758445e3686e51b3f24fee6d",
+			"gNew": 24,
+			"gamma": "044986cca31dd07b9c231c8993d5652a2b8d75c6f593031e654479af30073870a62285cd71e17ae4c086586f37e8a028c85cba1a5fa035",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "32c568defe535d0c4c396c58a530f5dad4f188d0"
+		}
+	}
+]

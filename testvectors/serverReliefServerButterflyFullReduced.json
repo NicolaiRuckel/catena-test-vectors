@@ -1,0 +1,90 @@
+[
+	{
+		"inputs":
+		{
+			"hash": "0999fd332784bd28e4c172e7894c1ef06def56be6f91163acc0e62c8f524a5bb06a9d94afd0ded5b320f067ddae60694dba2e2b6730c8855835738c6ff9e89f3",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "9c3c1fc926ba34a2c006effe200e6c6348bd7f4910a9a5370141ad12d2919cc1bc6dfbc9d5927dcf5633cbc07a82551195d67a5c9aee90767add700fb927380e"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "c4f0ff0c77b6f4fe3a9591d38c29736a8ceba57adbca7be597cc066eaa55bb11dc776550d733993bb1173d46c9c20bf6d1bdb18a6a07672bd3951996407a88b4",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "d663e3dc83c5ff3a923d1cb34a4bff72e72e742a70eb1ac590e870eaccab2b15a05322908eb5b94e8d44530a87077f44bc4882963c2edec6f1bfe9926e89b9a6"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "80b031736c668950c0dc5ab3d02f427bb9ecdb1ff3df7e8e92979b31da49450342755956feb3c5815df8975d78798b7f6a685fb6c46e75e8dc59810ca9a82130",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "9277f828e19b9f356d6b8baa6de14f6f5a1ac476ec83e7ca7a8eca5963490dfd34a8459fd0ce53debe8ba4fa2b65ee38b7d01bb670ec5b7a757bd8a25ca77b1c"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "f8a16a1041524f52e73e2ff4a6a0d08f17440b08cb8ef2434123a00fd0370442e1673aaef7ca877ad67e5b83d51d8f3e3e751980d26870c8ac36da7ed0dfe4b9",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "ba7fbd7e8d92f6f297c60fa842f89ba6aaf343e75e45c3d0dbf7d98ccca8799df27150f3b797383f37dc0326a455619be1c83cd958a0ed2ed83796bfef0e8ae1"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "5d789f733a86ae5c22810cdb43c9b9a7de31c2b07ba900eb70a6763cae584431d441eecd0f4ade0a2bc9d8adb216c506b3ff726c6a9b4bb9d90356cf8a1df624",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "056e69291687b2f1c371557aed6ae5d3eaa934f5"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "7d0d9ee180bf0a2f71c70f993f3ce13dc7b7c0c2510be4efed53d79c99bf2ba5b0d1267e6369c6b929339c13ac46175b3692b5568f0df7894de5de5dfeca7efc",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "c8ae94c5bad540eca9309cee04086cfa19394ef59687f7b388ff1769d20f6ac37a007cdb72c6d77f371e86a9c4591d29fa2f1c31b0941c391b9fd8690bfa8d7b"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "472abc7fc9965c705337e8043f8ef9872bd399785a28ec57e6dca71b94aef98129ed2bf437adf82eebadcbccdd8e1462404b2614e2cf63036c195064ca00e6e0",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "1b8ed045"
+		}
+	},
+	{
+		"inputs":
+		{
+			"hash": "cb0ac2a5fa646bf8f7c41aaa0912e41054b1f762234b7be57ff4666d976dcf76684200f5a66b961f4e61184d84ff9bca00b5cf96d62d55506509f503e5a474fe",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "8a397d80c08b5bdf63b775254e5511bd91f9f694"
+		}
+	}
+]

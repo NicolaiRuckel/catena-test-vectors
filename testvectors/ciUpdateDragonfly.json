@@ -1,0 +1,106 @@
+[
+	{
+		"inputs":
+		{
+			"oldHash": "ef7c05660e0caf2306c12cd58c69edd8c10cfbafcf9fa9a18c0a51bff78bd4b1b142fe9a28c5c2e96a40a4ddb427a08e4ea67b0578afca6ae230321684fcfbe6",
+			"gNew": 22,
+			"gamma": "0adcc34e11af6ffaaf7d89d6d01ba042bd199235bbefbd16bb33c72dc409dd08dc7f2ebad691e5f39f235b7144a1a54ebbbb",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "9fda47cd275fe8c080473b46e0228e5dc019f875bd38ea227db703c88eaa15a3653d99e0ae86f87cf699a4e4afca50d6b10990a6d04d97c080906e0b4ab36bca"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "069510ca",
+			"gNew": 22,
+			"gamma": "b7c997dde20a9e363014",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "19572172"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "f29abfdcc96a290a72a91bf5f75d73c3cd6ee629",
+			"gNew": 22,
+			"gamma": "a0972775594b667bc710e4d2",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "b783b6875029b9bbf4fd14ee8d535b2884d9cf9a"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "f3d5cd6a",
+			"gNew": 23,
+			"gamma": "12bb3927c33fe81d472f06637972a7083555f13e4b22709596f74796c856a3e6f56df9561e20a81ade1fcf6277661e89",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "4e5ae2e3"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "e5b4cb5d18fc13cd54920d1d80bf402d9e1d7534",
+			"gNew": 23,
+			"gamma": "d470389714623b9194637cc60fbd091f41b1221961481464742843c807702bf67fff07470e093b2d182c742b57ad1372f1f4d3d77dc95dbe90d32b4faa83d268",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "fda2169aa6d156677acab4a522ebd86cbc89c216"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "719a2a99",
+			"gNew": 23,
+			"gamma": "84e9e088325639204ba9f018dade3bf3ca0ff76e9d323ab68b38729bed1855465cbbceaf043bd0bd73e4f88d3a21b6c5312b53726bb584f38537f4a0",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "71870eea"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "34acb8c396611685fc1e619816f355c505bd6d66",
+			"gNew": 23,
+			"gamma": "503fe305d792872ed260d03f3e6b831b5c60e7f2ec0f45",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "fb049aefecd8034e6a5869535754e25ed796c24c"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "dcdbd4e1",
+			"gNew": 23,
+			"gamma": "e3e6bc6781",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "7cdd808b"
+		}
+	}
+]

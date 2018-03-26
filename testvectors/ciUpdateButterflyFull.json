@@ -1,0 +1,106 @@
+[
+	{
+		"inputs":
+		{
+			"oldHash": "c9c94bd369af8dd7d23790c6a11949d22d03c5a2",
+			"gNew": 19,
+			"gamma": "a9700612f340cf39e27a165c9d8e5db5bf609ceafc12b37af3",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "a971c6be3ae862adcd5016026053a0b20ed4fb02"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "1364027ebba93a588ea54fe2a08b201b7e2e8e1e",
+			"gNew": 18,
+			"gamma": "78b5d592982d9018aeace08f096cfc7abfc5026b720bff4fc550a1d21563cbf56b6402daa2a73a76c9e9",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "60a1fbb7df092f7434ca8fb636ba3f60578074a1"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "80d81ce5f0f026220fc266801c75bd5112a391f6",
+			"gNew": 19,
+			"gamma": "7226e2d71cd26f0f2c3fc638a21fa4fc9f4ca5caf46e407e5c7a234dee554c",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "eff7c133cd696c822c6c4081cad712beb9fd4812"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "9d0af0e36dd3e0b674f1cf316f9598d37f467bca",
+			"gNew": 19,
+			"gamma": "2967f9589c786b7280f49de83c89f6cdfbb1b355ad1983fdd7239dbcb3d286f5d4c5320a6c96b29f9c156c3dde49c837389d94488358",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "56b1a15333e6a404875a0e2cd70a20eacd3092b5"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "616a35c0db4a2b83011323b95fae6725f80e3dab025e6fa0c27904eed60d5911c646711d5b74f74753fe2ddee93f6960cb67ee256159258e995b3847c60394f4",
+			"gNew": 18,
+			"gamma": "19fccde095d20e0b503f3aa08d10786a9be718fbacf7b78616218aae7aeaf171c5c3a678a6dbe69da83e07f4bf8fc54e0c874ebe691dd75e384f3e",
+			"outputLength": 64
+		},
+		"outputs":
+		{
+			"res": "3de9903e1d93c1b63eadbb9e0c87db65692cfa58ef18f40e91db3023016b5c205edd35fdacac59ca111a14f318425281b6fc8970a1d1a7032a0fd865854a34ad"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "d1f9f258",
+			"gNew": 18,
+			"gamma": "4bf518c1725a5e07ad4910f584676d1fd4b11c4eb2a5991a7cb04457bc845936585d452f1d2566f426a0e2cf7f6bb3e7a2d2039bd9",
+			"outputLength": 4
+		},
+		"outputs":
+		{
+			"res": "7e44ade4"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "bfd9f89a716f00f1c87920fae1ea92dbe4450310",
+			"gNew": 18,
+			"gamma": "f546db6ccfe3f9df70abf0f709bd76a0e3fc30f4f59d6d175bee89f15d33b90103f3d576240c6068",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "a160731cce1fb325f231e652ac353b691561f908"
+		}
+	},
+	{
+		"inputs":
+		{
+			"oldHash": "098187c90c6fbb359a7fb1ec9551b80a372a75bc",
+			"gNew": 19,
+			"gamma": "40b2428bc506209806a7d266d65a3f200991dd067a8746f0680a",
+			"outputLength": 20
+		},
+		"outputs":
+		{
+			"res": "04f7249d09384204b525023f3c8a9b0ed41f542e"
+		}
+	}
+]
