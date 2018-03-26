@@ -211,19 +211,27 @@ Test files:
 
 ## Server Relief
 Test files for client side:
-- `serverReliefServerButterflyReduced.json`
-- `serverReliefServerButterflyReducedDifferentG.json`
-- `serverReliefServerDragonflyReduced.json`
-The test case `serverReliefServerButterflyReducedDifferentG.json` is
+- `serverReliefClientButterflyFullReduced.json`
+- `serverReliefClientButterflyFullReducedDifferentG.json`
+- `serverReliefClientButterflyReduced.json`
+- `serverReliefClientDragonflyFullReduced.json`
+- `serverReliefClientDragonflyReduced.json`
+The test case `serverReliefClientButterflyReducedDifferentG.json` is
 needed to test the loop in the server relief, which is skipped if `g_low` =
 `g_high`.
 
 Test files for server side:
+- `serverReliefServerButterflyFullReduced.json`
 - `serverReliefServerButterflyReduced.json`
+- `serverReliefServerDragonflyFullReduced.json`
 - `serverReliefServerDragonflyReduced.json`
 
 ## Client-Independent Update
 Test files:
+- `ciUpdateButterfly.json`
+- `ciUpdateButterflyFull.json`
+- `ciUpdateDragonfly.json`
+- `ciUpdateDragonflyFull.json`
 - `ciUpdateDragonflyReduced.json`
 
 ## Keyed Client-Independent Update
@@ -232,9 +240,25 @@ Test files:
 
 ## Proof of Work
 Test files for the server side:
+- `proofOfWorkServerPwdButterfly.json`
+- `proofOfWorkServerPwdButterflyFull.json`
 - `proofOfWorkServerPwdButterflyReduced.json`
+- `proofOfWorkServerPwdDragonfly.json`
+- `proofOfWorkServerPwdDragonflyFull.json`
+- `proofOfWorkServerSaltButterfly.json`
+- `proofOfWorkServerSaltButterflyFull.json`
 - `proofOfWorkServerSaltButterflyReduced.json`
+- `proofOfWorkServerSaltDragonfly.json`
+- `proofOfWorkServerSaltDragonflyFull.json`
 
 Test files for the client side:
--  `proofOfWorkClientPwdButterflyReduced.json`
--  `proofOfWorkClientSaltButterflyReduced.json`
+- `proofOfWorkClientPwdButterfly.json`
+- `proofOfWorkClientPwdButterflyFull.json`
+- `proofOfWorkClientPwdButterflyReduced.json`
+- `proofOfWorkClientPwdDragonfly.json`
+- `proofOfWorkClientPwdDragonflyFull.json`
+- `proofOfWorkClientSaltButterfly.json`
+- `proofOfWorkClientSaltButterflyFull.json`
+- `proofOfWorkClientSaltButterflyReduced.json`
+- `proofOfWorkClientSaltDragonfly.json`
+- `proofOfWorkClientSaltDragonflyFull.json`
