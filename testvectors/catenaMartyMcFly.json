@@ -1,0 +1,44 @@
+[
+	{
+		"inputs":
+		{
+			"pwd": "ff9e4862",
+			"salt": "0ebe1593c672c779a403d88b0ec92bc30685ed62171a6a53565b86e25eae",
+			"aData": "a378b0d74cca3cb21e428ab1f7e8f02c934fc962976804926722266be7ec00d8e6b06ee6268a9816c5e1acfc01cd0d61",
+			"outputLength": 4,
+			"gamma": "f59633fec4675cafb963d8ba730606f20a378df34f586ba4abc7b700bd99"
+		},
+		"outputs":
+		{
+			"res": "d53c060f"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "48aad9ba",
+			"salt": "3ff3aae5935a",
+			"aData": "3ff452cfd0486de401e39048f5faba8484aee72dd13a459d61a375d80e5317453b3f381b233f0d98d529d2db4e1a8ca162161a9438407463533d",
+			"outputLength": 4,
+			"gamma": "e1c7f8c3d5b815e286b6f7dcb1e4ff11effee08c5ae9e0aded446b480755ba4a335c51"
+		},
+		"outputs":
+		{
+			"res": "4dd275a4"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "8d92933c8ccac96704d635a57b5add5ddcbc5807ac656218a78b02e7f11c4935ce13166d39d3762a1a33ce5e90e7983fa4ac45adae077204b1cb9699c6243b8f",
+			"salt": "7f684caa065b38b773de",
+			"aData": "0f48344e99cc8ee5793f98693b44e2ea63c8f92f6d5e3de6b44bf51cdf8f43757b8b371bace5ff16",
+			"outputLength": 64,
+			"gamma": "d200f4dcd20907059b7810756451e2fb38347f326c48abe4b4d1f5b87903fe4d989c904c"
+		},
+		"outputs":
+		{
+			"res": "8fa32051692f968b6464d7fba4aafa259befd1e9a82c42ffb80cdcf00e39639bf9fa587927331a2bf356a3955e09026f978ff1ed813e188363acc1f6becb6140"
+		}
+	}
+]

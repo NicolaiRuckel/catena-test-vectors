@@ -53,6 +53,10 @@ Lanternfly Full with `g_low` = `g_high` = 9
 Horsefly with `g_low` = `g_high` = 13
 - `Horsefly Full Reduced`:
 Horsefly Full with `g_low` = `g_high` = 13
+- `MartyMcFly`
+MartyMcFly with `g_low` = `g_high` = 17
+- `MartyMcFly-Full`
+MartyMcFly Full with `g_low` = `g_high` = 23
 
 The purpose of the tests with the reduced Catena instances is to ensure that all
 tests of all test vectors can run in acceptable time, even in the dynamically
@@ -179,6 +183,8 @@ Test files:
 - `catenaLanternflyFull.json`
 - `catenaLanternflyReduced.json`
 - `catenaLanternflyFullReduced.json`
+- `catenaMartyMcFly.json`
+- `catenaMartyMcFlyFull.json`
 - `catenaMydasfly.json`
 - `catenaMydasflyFull.json`
 - `catenaMydasflyReduced.json`
