@@ -35,12 +35,10 @@ Dragonfly Full with `g_low` = `g_high` = 14
 Stonefly with `g_low` = `g_high` = 9
 - `Stonefly Full Reduced`:
 Stonefly Full with `g_low` = `g_high` = 9
-- `MartyMcFly`:
-MartyMcFly with `g_low` = `g_high` = 17
-- `MartyMcFly-Full`:
-MartyMcFly Full with `g_low` = `g_high` = 23
-- `Mydasfly`:
-- `Mydasfly Full`:
+- `MartyMcFly`
+- `MartyMcFly-Full`
+- `Mydasfly`
+- `Mydasfly Full`
 - `Mydasfly Reduced`:
 Mydasfly with `g_low` = `g_high` = 9
 - `Mydasfly Full Reduced`:
@@ -269,3 +267,12 @@ Test files for the client side:
 - `proofOfWorkClientSaltButterflyReduced.json`
 - `proofOfWorkClientSaltDragonfly.json`
 - `proofOfWorkClientSaltDragonflyFull.json`
+
+# Changelog
+
+## 2018-04-16
+We added experimental test vectors for the new MartyMcFly instance.  We use
+`g_low` = `g_high` = 17 for the regular and `g_low` = `g_high` = 23 for the Full
+variant.  We used a modified version of DRSample as the graph and no Γ or Φ.
+See [Catena-Cpp](https://github.com/medsec/catena-cpp) for a sample
+implementation of the MartyMcFly variants.
