@@ -1,0 +1,30 @@
+[
+  {
+    "inputs": {
+      "pwd": "012345",
+      "key": "46af6492e1deaf19",
+      "salt": "6789ab",
+      "gamma": "6789ab",
+      "aData": "000000",
+      "outputLength": 64,
+      "userID": "03"
+    },
+    "outputs": {
+      "res": "cc5c38608f45137dfd9bc8a47ea8a5c170cb79cc4ded01d60c3cfdd90fda46de771251d118789d8793945d28928cbd3488db6e108c5cf9de08b57a4e784c7319"
+    }
+  },
+  {
+    "inputs": {
+      "pwd": "012345012345",
+      "key": "2943d616732eab0f27177ef63677fa3d36502e99",
+      "salt": "6789ab6789ab",
+      "gamma": "6789ab6789ab",
+      "aData": "000000000000",
+      "outputLength": 64,
+      "userID": "05"
+    },
+    "outputs": {
+      "res": "a543197ee26ec4e3b7448a7f5e457916484d47d94fed270b68eb7d04e50a7c62f19e67427711752468e9adf3f36da1e3d8dbdac14a4609d51b96442e9dbe8631"
+    }
+  }
+]

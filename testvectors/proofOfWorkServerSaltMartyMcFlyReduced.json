@@ -1,0 +1,163 @@
+[
+  {
+    "inputs":
+    {
+      "pwd": "d6d2836c92965c8a0a0cf0a175e3dc",
+      "salt": "a1b85dec28d3dd4dc906c2316c32d456c987d964f92b06ab89adc6798ab21b567f031a1f03f8f8c69c84cb042221a9a62957",
+      "aData": "7618d0cbc42bf644d13793f74282e18b1172be6f4013be7570fd61e6ecfda73e83",
+      "gamma": "48825bd376d0393ff9941c037d1f5b82b0658d1c0fbf3125c84da83a8afcc024dc74d5cade546e5f7a62978ece7336cdce24",
+      "outputLength": 4,
+      "p": 3,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "d6d2836c92965c8a0a0cf0a175e3dc",
+      "salt": "a1b85dec28d3dd4dc906c2316c32d456c987d964f92b06ab89adc6798ab21b567f031a1f03f8f8c69c84cb042221a9a62950",
+      "aData": "7618d0cbc42bf644d13793f74282e18b1172be6f4013be7570fd61e6ecfda73e83",
+      "gamma": "48825bd376d0393ff9941c037d1f5b82b0658d1c0fbf3125c84da83a8afcc024dc74d5cade546e5f7a62978ece7336cdce24",
+      "outLen": 4,
+      "outHash": "475a0194",
+      "p": 3,
+      "mode": 0
+    }
+  },
+  {
+    "inputs":
+    {
+      "pwd": "14c28f90a86ac75a1df1",
+      "salt": "47135ced2d7b9abb16435b0af344b9f80f67ac7901abb0cba36510920f1ba685050022701531",
+      "aData": "d73f952d96b9db84e421627a3b3f304c697b994ba250e2174d5d0b8618bba90d2065ac3c480343",
+      "gamma": "7e321688e27965aaebdf92c5cb620b2b2b18dbe4e52232c07b0cf5df44",
+      "outputLength": 20,
+      "p": 3,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "14c28f90a86ac75a1df1",
+      "salt": "47135ced2d7b9abb16435b0af344b9f80f67ac7901abb0cba36510920f1ba685050022701530",
+      "aData": "d73f952d96b9db84e421627a3b3f304c697b994ba250e2174d5d0b8618bba90d2065ac3c480343",
+      "gamma": "7e321688e27965aaebdf92c5cb620b2b2b18dbe4e52232c07b0cf5df44",
+      "outLen": 20,
+      "outHash": "4e05912d860070f496084f7186d12ca0377f3e49",
+      "p": 3,
+      "mode": 0
+    }
+  },
+  {
+    "inputs":
+    {
+      "pwd": "bef76a39747de085d58b9a3c311c5a",
+      "salt": "c5aeb36b41a917d6447cb52684abb3e43e4d5c967a378bf102d8ec6ce1eeb31e4b3036a1c50405030754cc",
+      "aData": "6dc11ee04c1c6b514bc580fef8b35b1a9f518da5f7e7e4f5c30ec03fdbedf10b9b656c09aa88e4c37fe7b4e3b6de22a9491ecc14cb22849f",
+      "gamma": "21a312449b7923f7adb2738903d0556d64b283937f3a8e77895914f6ee3a0aa787f9f0d27ca010088f8a7eb94f28b6be9906aeb98c14f1f53736985a",
+      "outputLength": 64,
+      "p": 2,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "bef76a39747de085d58b9a3c311c5a",
+      "salt": "c5aeb36b41a917d6447cb52684abb3e43e4d5c967a378bf102d8ec6ce1eeb31e4b3036a1c50405030754cc",
+      "aData": "6dc11ee04c1c6b514bc580fef8b35b1a9f518da5f7e7e4f5c30ec03fdbedf10b9b656c09aa88e4c37fe7b4e3b6de22a9491ecc14cb22849f",
+      "gamma": "21a312449b7923f7adb2738903d0556d64b283937f3a8e77895914f6ee3a0aa787f9f0d27ca010088f8a7eb94f28b6be9906aeb98c14f1f53736985a",
+      "outLen": 64,
+      "outHash": "e3fa05448c13268a86628a308ae6b475ceb988890e4b90d37d7723359618454be491f801d1e94ef0e7a825bc89701ccee617335b11a54fdfeccb90c23571437b",
+      "p": 2,
+      "mode": 0
+    }
+  },
+  {
+    "inputs":
+    {
+      "pwd": "2b8557cc10578b23221c26",
+      "salt": "0bcf542a0c279367c0b9143e2ada3626069d6393445f2529",
+      "aData": "d2877a86c42acec7fdc5ae790c9adc42e7ff412e63405e95378a0d8776da041effe9edf417ae880cd754",
+      "gamma": "c517852a46546da9bd755d8ec942d40b9b6665af458e29633a005098384c57",
+      "outputLength": 20,
+      "p": 3,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "2b8557cc10578b23221c26",
+      "salt": "0bcf542a0c279367c0b9143e2ada3626069d6393445f2528",
+      "aData": "d2877a86c42acec7fdc5ae790c9adc42e7ff412e63405e95378a0d8776da041effe9edf417ae880cd754",
+      "gamma": "c517852a46546da9bd755d8ec942d40b9b6665af458e29633a005098384c57",
+      "outLen": 20,
+      "outHash": "7c80500f443c2685386170ddd6da2aa98c13765f",
+      "p": 3,
+      "mode": 0
+    }
+  },
+  {
+    "inputs":
+    {
+      "pwd": "20217cd0b9779a2f6e0897cc",
+      "salt": "f115a699ac568bb4f1cd1e900a2af9f1b735d727f94d203c37e0180f09d25817bc81aee66cb25c956dd73652299f99acf8425966d76e6048c6",
+      "aData": "759c778c914bd2c3bfd1cf5c55c454c00207795107ab",
+      "gamma": "7ef42e9e858e19113f7c5a6a6ffd82c3973a6716872d0fee1e4a1025d7acd5f3be3b9114a13584115333fe48f55c885871d869",
+      "outputLength": 20,
+      "p": 3,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "20217cd0b9779a2f6e0897cc",
+      "salt": "f115a699ac568bb4f1cd1e900a2af9f1b735d727f94d203c37e0180f09d25817bc81aee66cb25c956dd73652299f99acf8425966d76e6048c0",
+      "aData": "759c778c914bd2c3bfd1cf5c55c454c00207795107ab",
+      "gamma": "7ef42e9e858e19113f7c5a6a6ffd82c3973a6716872d0fee1e4a1025d7acd5f3be3b9114a13584115333fe48f55c885871d869",
+      "outLen": 20,
+      "outHash": "7bfdb2a97a9a9a61a9e8b3b663bfd652be3ce71e",
+      "p": 3,
+      "mode": 0
+    }
+  },
+  {
+    "inputs":
+    {
+      "pwd": "8062f9047006fc79a00a219f",
+      "salt": "fdfd0569c3503b9d36243f3f686aa228c6552a1727c83c73aa89756beb4e2124e14a8ea2968ff428c1259e4f3e",
+      "aData": "aef908d69cf63b2e174881",
+      "gamma": "1cbd29426c812bf33a6b383788ba012f2edc2cbb4f0c76c5f5420461a14d5c6b7ff2e6a4a97b9e87a98e9905feba0764d2b3",
+      "outputLength": 20,
+      "p": 3,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "8062f9047006fc79a00a219f",
+      "salt": "fdfd0569c3503b9d36243f3f686aa228c6552a1727c83c73aa89756beb4e2124e14a8ea2968ff428c1259e4f38",
+      "aData": "aef908d69cf63b2e174881",
+      "gamma": "1cbd29426c812bf33a6b383788ba012f2edc2cbb4f0c76c5f5420461a14d5c6b7ff2e6a4a97b9e87a98e9905feba0764d2b3",
+      "outLen": 20,
+      "outHash": "3b6563c1f6d8b16dd26feda1c2fbfed7a646099a",
+      "p": 3,
+      "mode": 0
+    }
+  },
+  {
+    "inputs":
+    {
+      "pwd": "5e07e6091b",
+      "salt": "0aaeb1a0f1b54e4ed7735b6c97e460f80433c80ffd8439d19601c7553ea6ed1f73a2a3d0d71c506be0",
+      "aData": "6ba2439eea3982ea0db21a62ed66a777cf26d9131b2bc2fe2f16a9e9be0468bf0d3eb3b6",
+      "gamma": "f8d493d598cd47298690",
+      "outputLength": 20,
+      "p": 3,
+      "mode": 0
+    },
+    "outputs":
+    {
+      "pwd": "5e07e6091b",
+      "salt": "0aaeb1a0f1b54e4ed7735b6c97e460f80433c80ffd8439d19601c7553ea6ed1f73a2a3d0d71c506be0",
+      "aData": "6ba2439eea3982ea0db21a62ed66a777cf26d9131b2bc2fe2f16a9e9be0468bf0d3eb3b6",
+      "gamma": "f8d493d598cd47298690",
+      "outLen": 20,
+      "outHash": "6c5f5f1f357b0f29242f8ea9ce00e42a3a63b67e",
+      "p": 3,
+      "mode": 0
+    }
+  }
+]

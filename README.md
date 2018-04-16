@@ -37,6 +37,8 @@ Stonefly with `g_low` = `g_high` = 9
 Stonefly Full with `g_low` = `g_high` = 9
 - `MartyMcFly`
 - `MartyMcFly-Full`
+- `MartyMcFly Reduced`:
+MartyMcFly with `g_low` = `g_high` = 9
 - `Mydasfly`
 - `Mydasfly Full`
 - `Mydasfly Reduced`:
@@ -212,6 +214,8 @@ Test files:
 - `keyedHashDragonfly.json`
 - `keyedHashDragonflyFull.json`
 - `keyedHashDragonflyReduced.json`
+- `keyedHashMartyMcFly.json`
+- `keyedHashMartyMcFlyFull.json`
 
 ## Server Relief
 Test files for client side:
@@ -250,11 +254,13 @@ Test files for the server side:
 - `proofOfWorkServerPwdButterflyReduced.json`
 - `proofOfWorkServerPwdDragonfly.json`
 - `proofOfWorkServerPwdDragonflyFull.json`
+- `proofOfWorkServerPwdMartyMcFlyReduced.json`
 - `proofOfWorkServerSaltButterfly.json`
 - `proofOfWorkServerSaltButterflyFull.json`
 - `proofOfWorkServerSaltButterflyReduced.json`
 - `proofOfWorkServerSaltDragonfly.json`
 - `proofOfWorkServerSaltDragonflyFull.json`
+- `proofOfWorkServerSaltMartyMcFlyReduced.json`
 
 Test files for the client side:
 - `proofOfWorkClientPwdButterfly.json`
