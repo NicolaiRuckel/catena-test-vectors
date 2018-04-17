@@ -1,0 +1,44 @@
+[
+	{
+		"inputs":
+		{
+			"pwd": "68243ba0",
+			"salt": "aaff71a57a8c6613b8f55003f29b",
+			"aData": "fa364a22315fd7f6eddbc3b26a1cab07aafea8ccb5f6e78e8a64fd",
+			"outputLength": 4,
+			"gamma": "5110fd0fcfe556712997d9c4bd1e7507edf7ae1bddd81d52241f8a996bdbf2a4bc5dfd626b30a4ea680cb4d0f5d15d855e0b495e960dd566d9817f816694f3"
+		},
+		"outputs":
+		{
+			"res": "7488fac38d87e97367e7e4b3826fb5d0804980f7e6aedbee1905748f7ce62c00cd4caefa8786e809b204c4bc5fa696d42e7ce458893ada8175a9f7c81ff29372"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "0942f57145d1faecdbb4c79cc229ca0e4f255ac4",
+			"salt": "ad19e4a0a897cf05d533ac8ffa3074bea69dbb59",
+			"aData": "3eccecde9125086f3effd7686f1d17849cb1aaaa115729b5d4b5e376d1e4631c51f0d45e2c89",
+			"outputLength": 20,
+			"gamma": "21a4d51eec403662a46a88a0b4a7a545dab1112a10"
+		},
+		"outputs":
+		{
+			"res": "a28ed623740fedd1cf2253343217e97dfd01ab997a8b8dfe7f0d650d702e25e4649c1e83302a4ad7886bc22e7786c2ba8906ffa698f29907e4b078f6df93eb9f"
+		}
+	},
+	{
+		"inputs":
+		{
+			"pwd": "3ee89c93",
+			"salt": "0081ca00",
+			"aData": "2c51dcf8e196d936c56f6d1acff5639b6fd58e4c2be9679720a161d694e016e97f9d33212ea3451be47f6389c8",
+			"outputLength": 4,
+			"gamma": "5013ab04392d67ba91"
+		},
+		"outputs":
+		{
+			"res": "0ec29a0c6c8f5a72ed3dcd68fdd24c97605b5484f554e743899f31aff675787b95296629753850bee06562c041347d90f913ea9f5157f69522ecaf76d72b1527"
+		}
+	}
+]

@@ -224,6 +224,8 @@ Test files for client side:
 - `serverReliefClientButterflyReduced.json`
 - `serverReliefClientDragonflyFullReduced.json`
 - `serverReliefClientDragonflyReduced.json`
+- `serverReliefClientMartyMcFly.json`
+- `serverReliefClientMartyMcFlyFull.json`
 
 The test case `serverReliefClientButterflyReducedDifferentG.json` is
 needed to test the loop in the server relief, which is skipped if `g_low` =
